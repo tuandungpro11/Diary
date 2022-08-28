@@ -1,0 +1,2 @@
+# Diary
+Self Diary
